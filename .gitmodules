@@ -1,0 +1,4 @@
+[submodule "teamwork-indicator"]
+	path = teamwork-indicator
+	url = https://github.com/arthurBorger/teamwork-indicator
+	branch = main
