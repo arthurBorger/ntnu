@@ -6,3 +6,11 @@
 	path = prog2005-assignment-1
 	url = https://github.com/arthurBorger/prog2005-assignment-1.git
 	branch = main
+[submodule "prog2005-assignment-2"]
+	path = prog2005-assignment-2
+	url = https://github.com/arthurBorger/prog2005-assignment-2.git
+	branch = main
+[submodule "idatg2208-assignments"]
+	path = idatg2208-assignments
+	url = https://github.com/arthurBorger/idatg2208-assignments.git
+	branch = main
