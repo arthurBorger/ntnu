@@ -14,3 +14,11 @@
 	path = idatg2208-assignments
 	url = https://github.com/arthurBorger/idatg2208-assignments.git
 	branch = main
+[submodule "iikg3005-assingment-2"]
+	path = iikg3005-assingment-2
+	url = https://github.com/arthurBorger/iikg3005-assingment-2
+	branch = main
+[submodule "iikg3005-assingment-1"]
+	path = iikg3005-assingment-1
+	url = https://github.com/arthurBorger/iikg3005-assingment-1
+	branch = main
