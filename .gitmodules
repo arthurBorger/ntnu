@@ -26,3 +26,7 @@
 	path = idatg2204-group-project
 	url = https://github.com/erlendromo/DB_Project
 	branch = main
+[submodule "idatg1003-project"]
+	path = idatg1003-project
+	url = https://github.com/arthurBorger/idatg1003-project.git
+	branch = main
