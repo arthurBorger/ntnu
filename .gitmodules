@@ -22,3 +22,8 @@
 	path = iikg3005-assingment-1
 	url = https://github.com/arthurBorger/iikg3005-assingment-1
 	branch = main
+
+[submodule "idatg2204-group-project"]
+	path = idatg2204-group-project
+	url = https://github.com/erlendromo/DB_Project
+	branch = main
