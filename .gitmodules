@@ -33,3 +33,6 @@
 [submodule "idatg2001-project"]
 	path = idatg2001-project
 	url = https://github.com/SirAlexiner/Wands-and-Trolls.git
+[submodule "idatg1002-group-project"]
+	path = idatg1002-group-project
+	url = https://github.com/SirAlexiner/Inex
