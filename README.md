@@ -2,6 +2,26 @@
 This repository contains the programming assignments for various courses at NTNU. The assignments are organized by year of study.
 
 ## Third year:
+### Bachelor
+
+**["FORSETE: A Locally Hosted Automatic Text Recognition Platform for the Espås Case"](https://nva.sikt.no/registration/0198eaf3c763-ede8a7d1-8644-461f-b190-f8d37c0180bf)**
+
+- [Frontend]()
+<div align="center">
+
+[![Tech](https://skillicons.dev/icons?i=typescript,javascript,express,html,css,tailwind,git,docker)](https://skillicons.dev)
+
+</div>
+
+- [Backend]()
+<div align="center">
+
+[![Tech](https://skillicons.dev/icons?i=terraform,go,git,docker)](https://skillicons.dev)
+
+</div>
+
+---
+
 - [Introduction to Machine Learning (IDATG2208)](https://github.com/arthurBorger/idatg2208-assignments)
 
 <div align="center">
