@@ -30,3 +30,6 @@
 	path = idatg1003-project
 	url = https://github.com/arthurBorger/idatg1003-project.git
 	branch = main
+[submodule "idatg2001-project"]
+	path = idatg2001-project
+	url = https://github.com/SirAlexiner/Wands-and-Trolls.git
