@@ -3,20 +3,46 @@ This repository contains the programming assignments for various courses at NTNU
 
 ## Third year:
 - [Introduction to Machine Learning (IDATG2208)](https://github.com/arthurBorger/idatg2208-assignments)
+
+<div align="center">
+
+[![Tech](https://skillicons.dev/icons?i=python,tensorflow,git)](https://skillicons.dev)
+
+</div>
+
 - Infrastructure as Code (IIKG3005):  
   [assignment 1](https://github.com/arthurBorger/iikg3005-assingment-1) and [assignment 2](https://github.com/arthurBorger/iikg3005-assingment-2)
 
+<div align="center">
+
+[![Tech](https://skillicons.dev/icons?i=postgres,terraform,ubuntu,linux,github,git)](https://skillicons.dev)
+
+</div>
+
 ## Second year:
 - [Data modeling and database systems (IDATG2204)](https://github.com/erlendromo/DB_Project)
+
+<div align="center">
+
+[![Tech](https://skillicons.dev/icons?i=postgres,go,html,docker,git)](https://skillicons.dev)
+
+</div>
+
 - Cloud Technologies (PROG2005):  
   [assignment 1](https://github.com/arthurBorger/prog2005-assignment-1) and [assignment 2](https://github.com/arthurBorger/prog2005-assignment-2)
+
+<div align="center">
+
+[![Tech](https://skillicons.dev/icons?i=go,firebase,postman,docker,git)](https://skillicons.dev)
+
+</div>
 
 ## First year:
 - [Programming 1 (IDATG2001) - Smarthus AS](https://github.com/arthurBorger/idatg1003-project)  
 
 <div align="center">
 
-[![Tech](https://skillicons.dev/icons?i=java,git&perline=6)](https://skillicons.dev)
+[![Tech](https://skillicons.dev/icons?i=java,git)](https://skillicons.dev)
 
 </div>
 
@@ -24,7 +50,7 @@ This repository contains the programming assignments for various courses at NTNU
 
 <div align="center">
 
-[![Tech](https://skillicons.dev/icons?i=java,maven,css,git&perline=2)](https://skillicons.dev)
+[![Tech](https://skillicons.dev/icons?i=java,maven,css,git)](https://skillicons.dev)
 
 </div>
 
