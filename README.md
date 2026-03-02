@@ -1,13 +1,18 @@
 # NTNU Course work
 This repository contains the programming assignments for various courses at NTNU. The assignments are organized by year of study.
+
 ## Third year:
-- [Introduction to Machine Learning (IDATG2208)](idatg2208-assignments)
-- Infrastructure as Code (IIKG3005): [assignment 1](iikg3005-assingment-1) and [assignment 2](iikg3005-assingment-2)
+- [Introduction to Machine Learning (IDATG2208)](https://github.com/arthurBorger/idatg2208-assignments)
+- Infrastructure as Code (IIKG3005):  
+  [assignment 1](https://github.com/arthurBorger/iikg3005-assingment-1) and [assignment 2](https://github.com/arthurBorger/iikg3005-assingment-2)
+
 ## Second year:
-- [Data modeling and database systems (IDATG2204)](idatg2204-group-project)
-- Cloud Technologies (PROG2005): [assignment 1](idatg2205-assignment-1) and [assignment 2](idatg2205-assignment-2)
+- [Data modeling and database systems (IDATG2204)](https://github.com/erlendromo/DB_Project)
+- Cloud Technologies (PROG2005):  
+  [assignment 1](https://github.com/arthurBorger/prog2005-assignment-1) and [assignment 2](https://github.com/arthurBorger/prog2005-assignment-2)
+
 ## First year:
-- [Programming 1 (IDATG2001) - Smarthus AS](idatg1003-project)  
+- [Programming 1 (IDATG2001) - Smarthus AS](https://github.com/arthurBorger/idatg1003-project)  
 
 <div align="center">
 
@@ -15,8 +20,7 @@ This repository contains the programming assignments for various courses at NTNU
 
 </div>
 
-
-- [Programming 2 (IDATG2001) - Wands and Trolls](idatg2001-project)  
+- [Programming 2 (IDATG2001) - Wands and Trolls](https://github.com/SirAlexiner/Wands-and-Trolls)  
 
 <div align="center">
 
@@ -24,8 +28,7 @@ This repository contains the programming assignments for various courses at NTNU
 
 </div>
 
-
-- [System Development (IDATG1002) - Inex](idatg1002-group-project)  
+- [System Development (IDATG1002) - Inex](https://github.com/SirAlexiner/Inex)  
 
 <div align="center">
 
@@ -35,4 +38,4 @@ This repository contains the programming assignments for various courses at NTNU
 
 # NTNU Work projects
 This repository also contains projects from my part time jobs at NTNU.
-- [Teamwork indicator](teamwork-indicator) for Eksperter i Team (EiT), NTNU
+- [Teamwork indicator](https://github.com/arthurBorger/teamwork-indicator) for Eksperter i Team (EiT), NTNU
