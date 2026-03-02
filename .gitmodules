@@ -36,3 +36,9 @@
 [submodule "idatg1002-group-project"]
 	path = idatg1002-group-project
 	url = https://github.com/SirAlexiner/Inex
+[submodule "bachelor-frontend"]
+	path = bachelor-frontend
+	url = https://github.com/erlendromo/forsete-web.git
+[submodule "bachelor-backend"]
+	path = bachelor-backend
+	url = https://github.com/erlendromo/forsete-atr.git
