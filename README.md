@@ -1,4 +1,4 @@
-# NTNU Programming Assignments
+# NTNU Course work
 This repository contains the programming assignments for various courses at NTNU. The assignments are organized by year of study.
 ## Third year:
 - [Introduction to Machine Learning (IDATG2208)](idatg2208-assignments)
